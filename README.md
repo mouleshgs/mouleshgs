@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mouleshleo
+- 👋 Hi, I’m @mouleshgs
 - 👀 I’m interested in learning new things
 - 🐧 I use Linux btw 
 - 🌱 I’m currently learning frontend & backend development
